@@ -1,0 +1,20 @@
+@media (max-width: 1104px) {
+  #level-title {
+    display: none;
+  }
+  .btn {
+    height: 100px;
+    width: 100px;
+  }
+  .hidden {
+    display: inline-block;
+  }
+  .btn-start,
+  .btn-reset {
+    padding: 10px;
+  }
+
+  .btn-start:hover {
+    background-color: #7777;
+  }
+}
